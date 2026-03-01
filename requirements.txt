@@ -6,5 +6,6 @@ seaborn
 python-dotenv
 setuptools
 pymongo
+pymongo[srv]==3.11
 certifi
 # -e .
