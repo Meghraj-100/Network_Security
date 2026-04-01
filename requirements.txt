@@ -8,4 +8,7 @@ setuptools
 pymongo
 pymongo[srv]==3.11
 certifi
+dill
+pyaml
+
 # -e .
